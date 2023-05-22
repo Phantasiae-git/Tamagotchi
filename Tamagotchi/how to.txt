@@ -1,0 +1,27 @@
+ +------------------------------------------------------------------------------------------------------------------+
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |    In this game, your one and only objective is to keep your pet alive, healthy, and happy. To achieve that,     |
+ |    you must open the game frequently to feed it, pet it, and clean its poop. Your save file number is            |
+ |    displayed on the top left corner, next to your pet's name, so that the number to input when you want to       |
+ |    load your file.                                                                                               |
+ |                                                                                                                  |
+ |    Your pet loses 2 hp for each day without being cared for. It gains 3hp for eating, 2 for being petted, and    |
+ |    1 for having its poop cleaned. The maximum hp your pet can have is 10, any actions perfomed after it          |
+ |    reaches 10hp will not add any more hp. If your pet reaches 0hp, it will die, and your file will be            |
+ |    automatically deleted.                                                                                        |
+ |                                                                                                                  |
+ |    A little secret is you can type 0 in the main interface (where you see your pet and choose what to do) it     |
+ |    activates MASCOT MODE. In MASCOT MODE your pet stays in your computer to cheer you on whatever you're doing   |
+ |    with a colorful party interface! However, in this mode, you cannot perform any actions except ending the      |
+ |    program, and you lose 1hp because cheerleading is tiring so make sure you only activate it after caring       |
+ |    for your pet!                                                                                                 |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |      +---------------------------------------------+                  +------------------+    +---------+        |
+ |      |For further information, open the user manual|  +----------+    |1|open user manual|    |2|go back|        |
+ |      +---------------------------------------------+                  +------------------+    +---------+        |
+ |                                                                                                                  |
+ +-------------------------------------------------------+----------------------------------------------------------+
+                                                         |
+                                                         v

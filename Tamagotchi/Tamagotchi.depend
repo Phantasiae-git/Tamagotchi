@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1592488510 source:d:\pictures\github\project\tamagotchi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
